@@ -1,3 +1,4 @@
+pytz
 aiohttp
 aiofiles
 aioshutil
@@ -42,4 +43,3 @@ tgcrypto
 uvloop
 xattr
 yt-dlp
-pytz
